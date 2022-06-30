@@ -1,6 +1,5 @@
 
-# Effortless Tetris with C++ 
-
+# Effortless Tetris with C++ 🕹
 A simpleton tetris game which u can fire up in ur cmd anytime ! 
 
 ## Description
